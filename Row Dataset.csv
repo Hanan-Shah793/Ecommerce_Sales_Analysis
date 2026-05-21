@@ -1,0 +1,16 @@
+OrderID,CustomerID,Gender,Age,City,ProductCategory,ProductName,Price,Quantity,OrderDate,PaymentMethod
+1001,C001,Male,28,Karachi,Electronics,Headphones,4500,2,2024-01-12,Credit Card
+1002,C002,Female,34,Lahore,Clothing,Winter Jacket,8500,1,2024-01-13,Cash
+1003,C003,Male,22,Islamabad,Electronics,Smartphone,65000,1,2024-01-14,Debit Card
+1004,C004,Female,30,Karachi,Beauty,Face Wash,1200,3,2024-01-15,Credit Card
+1005,C005,Male,40,Peshawar,Groceries,Rice Bag,3200,2,2024-01-16,Cash
+1006,C006,Female,27,Lahore,Clothing,Jeans,3000,2,2024-01-17,Debit Card
+1007,C007,Male,35,Karachi,Electronics,Laptop,120000,1,2024-01-18,Credit Card
+1008,C008,Female,29,Islamabad,Beauty,Perfume,7000,1,2024-01-19,Cash
+1009,C009,Male,31,Karachi,Groceries,Cooking Oil,5000,2,2024-01-20,Debit Card
+1010,C010,Female,26,Lahore,Clothing,T-Shirt,1500,4,2024-01-21,Credit Card
+1011,C011,Male,45,Quetta,Electronics,TV,90000,1,2024-01-22,Cash
+1012,C012,Female,33,Karachi,Beauty,Lipstick,1800,2,2024-01-23,Debit Card
+1013,C013,Male,24,Islamabad,Electronics,Tablet,30000,1,2024-01-24,Credit Card
+1014,C014,Female,38,Lahore,Clothing,Scarf,1200,3,2024-01-25,Cash
+1015,C015,Male,29,Karachi,Groceries,Flour Bag,2800,2,2024-01-26,Debit Card
